@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 23 09:11:33 2019
 
-@author: remus
-"""
 import numpy as np
 
 def safeLoadMedicalImg(filename, read_dim = 0):
