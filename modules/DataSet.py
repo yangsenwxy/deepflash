@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul  2 14:55:43 2019
 
-@author: jrxing
-"""
 
 
 import torch
