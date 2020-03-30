@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  8 20:10:32 2019
 
-@author: remus
-"""
 
 import numpy as np
 def generateNumbersInRangeUnif(min, max, count):
